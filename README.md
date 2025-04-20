@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela Carcausto</h1>
-<h3 align="center">🤖 I am a Mechatronics Engineer from Peru passionate about electronics, embedded systems, and autonomous technologies. I have experience in PCB design, embedded programming, and 3D modeling, I’m motivated to grow in fields like artificial intelligence and robotics simulation.=
+<h3 align="center">🤖 I am a Mechatronics Engineer from Peru passionate about electronics, embedded systems, and autonomous technologies. I have experience in PCB design, embedded programming, and 3D modeling, I’m motivated to grow in fields like artificial intelligence and robotics simulation.
 
 ---
 
@@ -39,12 +39,12 @@ This project involved the design and development of an inspection robot used for
 - **Communication:** USB tethered connection with a laptop interface for real-time control and monitoring
 
 <p align="center">
-  <img src="./pochita/pochita_pcb.png" alt="PCB bottom" width="300"/>
-  <img src="./pochita/pochita_top.png" alt="PCB top" width="300"/>
-  <img src="./pochita/pochita_bottom.png" alt="PCB bottom" width="300"/>
+  <img src="./pochita/pochita_pcb.png" alt="PCB bottom" width="250"/>
+  <img src="./pochita/pochita_top.png" alt="PCB top" width="250"/>
+  <img src="./pochita/pochita_bottom.png" alt="PCB bottom" width="250"/>
 </p>
 <p align="center">
-  <img src="./pochita/pochita3D_1.png" alt="PCB top" width="400"/>
+  <img src="./pochita/pochita3D_1.png" alt="500" />
   <img src="./pochita/pochita3D_2.png" alt="PCB bottom" width="400"/>
 </p>
 <p align="center">
