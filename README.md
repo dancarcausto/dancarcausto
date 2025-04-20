@@ -1,10 +1,35 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">I am a Mechatronics Engineer from Peru</h3>
+<h3 align="center">I am a Mechatronics Engineer from Peru with knowledge in PCB design, programming and basic modelling skills. I am motivated in learning more about AI and robotics simulation</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/daniela-carcausto-osco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/daniela-carcausto-osco" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/daniela-carcausto-osco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danicarcausto@hotmail.com) 
+
+
+## 💻 Programming Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+<h1>💻 PCB Experience </h1> 
+
+In this section I will present projects Ive been part of mostly in electronics and PCB design which have been implemented and tested during my experience in university and work usind differente softwares like Eagle, Easy EDA, and KiCAD.
+
+### Projects:
+  - [Tank Barrel Inspection System](#proy1)
+  - [Unnamanned Superficial Vehicle](#proy2)
+  - [Swarm robotics](#proy3)
+
+
+## Tank Barrel Inspection System
+
+
+
+
+## Unnamanned Superficial Vehicle 
+
+## Swarm robotics
+
+
