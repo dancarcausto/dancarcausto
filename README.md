@@ -36,14 +36,14 @@ Design and development of four PCBs for an autonomous surface vehicle (USV) proj
 ### 🔌 Main PCB
 
 **Authors:** Jefferson Camargo, Daniela Carcausto  
-The main PCB managed power distribution to all sensors, the onboard computer, the Tumivision module, and the electric winch. It also featured voltage selection capabilities to power different sensors according to their requirements.Moreover, with the GPIOs of the main computer and the communicaction PCB, different protocols depending on the sensor could be selected.  
+The main PCB managed power distribution to all sensors, the onboard computer, the Tumivision module, and the electric winch. It also featured voltage selection capabilities to power different sensors according to their requirements. Moreover, with the GPIOs of the main computer and the communicaction PCB, different protocols depending on the sensor could be selected.  
 **Features:**
 
 - Power management for various modules
 - Voltage selection for sensors
 - Integrated **Ethernet switch** for communication with Tumivision, **PTZ camera**
 
----
+| ![Design](./usv/principal/principal_top.png) | ![3D](./usv/principal/principal_bottom.png) | ![Real](./usv/principal/principal_2D.png) |
 
 ### 📡 Communication PCB
 
@@ -55,8 +55,6 @@ This compact board enabled switching between communication protocols such as **R
 - Control interface with main computer
 - Compact design for easy integration
 
----
-
 ### 🎥 Tumivision PCB
 
 **Author:** Daniela Carcausto  
@@ -64,8 +62,6 @@ This small board powered and connected the Tumivision module, which consisted of
 **Features:**
 
 - Power supply for vision components, Ethernet switch, and indicator LED
-
----
 
 ### ⚙️ Electric Winch PCB
 
