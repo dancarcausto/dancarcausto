@@ -43,11 +43,9 @@ The main PCB managed power distribution to all sensors, the onboard computer, th
 - Voltage selection for sensors
 - Integrated **Ethernet switch** for communication with Tumivision, **PTZ camera**
 
-<p align="center">
-  <img src="./usv/principal/principal_top.png" alt="Main PCB Design" width="250"/>
-  <img src="./usv/principal/principal_bottom.png" alt="Main PCB 3D Model" width="250"/>
-  <img src="./usv/principal/principal_2D.png" alt="Main PCB Assembled" width="250"/>
-</p>
+|                                                             |                                                                |                                                            |     |
+| ----------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | --- |
+| <img src="./usv/principal/principal_top.png" width='300' /> | <img src='./usv/principal/principal_bottom.png' width='300' /> | <img src='./usv/principal/principal_2D.png' width='300' /> |
 
 ### 📡 Communication PCB
 
