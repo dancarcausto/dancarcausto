@@ -49,8 +49,8 @@ The main PCB managed power distribution to all sensors, the onboard computer, th
   <img src="./usv/principal/principal_2D.png" alt="PCB 2d" width="300"/>
 </p>
 <p align="center">
-  <img src="./usv/principal/principal_3D.png" alt="PCB top" width="300"/>
-  <img src="./usv/principal/principal_3D2.png" alt="PCB bottom" width="300"/>
+  <img src="./usv/principal/principal_3D.png" alt="PCB top" width="400"/>
+  <img src="./usv/principal/principal_3D2.png" alt="PCB bottom" width="400"/>
 </p>
 <p align="center">
   <img src="./usv/principal/principal_realtop.png" alt="PCB top" width="300"/>
@@ -60,7 +60,8 @@ The main PCB managed power distribution to all sensors, the onboard computer, th
 ### 📡 Communication PCB
 
 **Authors:** Jefferson Camargo, Daniela Carcausto  
-This compact board enabled switching between communication protocols such as **RS232, RS485**, and **TTL**. It connected to the main PCB and allowed the onboard computer to dynamically choose the desired protocol.  
+This compact board enabled switching between communication protocols such as **RS232, RS485**, and **TTL**. It connected to the main PCB and allowed the onboard computer to dynamically choose the desired protocol.
+
 **Features:**
 
 - Multi-protocol support
@@ -73,8 +74,8 @@ This compact board enabled switching between communication protocols such as **R
   <img src="./usv/comunicacion/comunicacion_2D.png" alt="PCB 2d" width="250"/>
 </p>
 <p align="center">
-  <img src="./usv/comunicacion/comunicacion3D_1.png" alt="PCB top" width="300"/>
-  <img src="./usv/comunicacion/comuniccion3D_2.png" alt="PCB bottom" width="300"/>
+  <img src="./usv/comunicacion/comunicacion3D_1.png" alt="PCB top" width="400"/>
+  <img src="./usv/comunicacion/comuniccion3D_2.png" alt="PCB bottom" width="400"/>
 </p>
 <p align="center">
   <img src="./usv/comunicacion/comunicacion_real.png" alt="PCB top" width="300"/>
@@ -84,6 +85,7 @@ This compact board enabled switching between communication protocols such as **R
 
 **Author:** Daniela Carcausto  
 This small board powered and connected the Tumivision module, which consisted of a **Jetson AGX Xavier**, a **Mid360 camera**, and a **stereoscopic camera**.
+
 **Features:**
 
 - Power supply for vision components, Ethernet switch, and indicator LED
@@ -104,7 +106,8 @@ This small board powered and connected the Tumivision module, which consisted of
 ### ⚙️ Electric Winch PCB
 
 **Author:** Daniela Carcausto  
-Designed to control an electric winch module. It communicated via **RS485** with the main PCB to receive distance commands. An **encoder** is used for position feedback and included a **limit switch** to stop the winch when it returned to the initial position.  
+Designed to control an electric winch module. It communicated via **RS485** with the main PCB to receive distance commands. An **encoder** is used for position feedback and included a **limit switch** to stop the winch when it returned to the initial position.
+
 **Features:**
 
 - RS485 communication
@@ -117,8 +120,8 @@ Designed to control an electric winch module. It communicated via **RS485** with
   <img src="./usv/winche/winche_2D.png" alt="PCB 2d" width="300"/>
 </p>
 <p align="center">
-  <img src="./usv/winche/winche_3D.png" alt="PCB top" width="300"/>
-  <img src="./usv/winche/winche_3D2.png" alt="PCB top" width="300"/>
+  <img src="./usv/winche/winche_3D.png" alt="PCB top" width="400"/>
+  <img src="./usv/winche/winche_3D2.png" alt="PCB top" width="400"/>
   <img src="./usv/winche/winche_real.png" alt="PCB bottom" width="300"/>
 </p>
 
