@@ -116,7 +116,7 @@ This compact board enabled switching between communication protocols such as **R
 
 **PCB Design and Electronics Integration:** Daniela Carcausto
 
-This small board powered and connected the Tumivision module, which consisted of a **Jetson AGX Xavier**, a **Mid360 camera**, **stereoscopic camera**, and a LED to indicate when the module is working.
+This small board powered and connected the Tumivision module, which consisted of a **Jetson AGX Xavier**, a **Mid360 LIDAR**, **stereoscopic camera**, and a LED to indicate when the module is working.
 
 **Features:**
 
