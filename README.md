@@ -84,7 +84,7 @@ The main PCB managed power distribution to all sensors, the onboard computer, th
 </p>
 <p align="center">
   <img src="./usv/principal/principal_realtop.png" alt="PCB real top" width="300" />
-  <img src="./usv/principal/principal_realbottom.png" alt="PCB real" width="400" />
+  <img src="./usv/principal/principal_realbottom.png" alt="PCB real" width="350" />
 </p>
 
 ### 📡 Communication PCB
