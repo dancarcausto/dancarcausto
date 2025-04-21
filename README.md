@@ -69,8 +69,8 @@ The main PCB managed power distribution to all sensors, the onboard computer, th
 
 **Features:**
 
-- Power management for various modules (5V,12V,15V,24V)
-- Voltage selection for sensors (12V,24V)
+- Power management for various modules (5V, 12V, 15V, 24V)
+- Voltage selection for sensors (12V, 24V)
 - Integrated Ethernet switch for communication with Tumivision and PTZ camera
 
 <p align="center">
@@ -83,8 +83,8 @@ The main PCB managed power distribution to all sensors, the onboard computer, th
   <img src="./usv/principal/principal_3D2.png" alt="PCB bottom" width="400"/>
 </p>
 <p align="center">
-  <img src="./usv/principal/principal_realtop.png" alt="300" />
-  <img src="./usv/principal/principal_realbottom.png" alt="300" />
+  <img src="./usv/principal/principal_realtop.png" alt="PCB real top" width="300" />
+  <img src="./usv/principal/principal_realbottom.png" alt="PCB real" width="400" />
 </p>
 
 ### 📡 Communication PCB
